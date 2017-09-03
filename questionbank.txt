@@ -1,0 +1,5 @@
+2015,1,1,"EM",easy,combination of functions,If g(x)=1-x and h(x) = x/(1/x), then g(h(x))/h(g(x)) is:,h(x)/g(x),-1/x,g(x)/h(x),x/(1-x)^2,A,2
+2015,1,1,"hard",nothing,nothing,LU decomposition,x,y,z,w,1,
+2015,1,1,"hard",combination of funct,combination of functions,If g(x)=1-x and h(x) = x/(1/x), then g(h(x))/h(g(x)) is:,x,-1/x,g(x)/h(x),w,2,1
+1,1,1,"medium",combination of funct,combination of functions,If g(x)=1-x and h(x) = x/(1/x), then g(h(x))/h(g(x)) is:,h(x)/g(x),-1/x,g(x)/h(x),x/(1-x)^2,2,2
+1,1,1,"medium",nothing,nothing,LU decomposition,h(x)/g(x),-1/x,g(x)/h(x),x/(1-x)^2,4,3
